@@ -7,7 +7,7 @@ This is everything you need to know about having better development experience.
 ## Git Branches
 Please follow these rules:
 * create a branch for every feature
-* send PR to @jigsaw373 for confirmation 
+* send PR to your lead for confirmation 
 
 ### Naming convention 
 ![Convention](https://miro.medium.com/max/640/1*bmeCQ9RKVpuLAqZHiVocxg.webp)
